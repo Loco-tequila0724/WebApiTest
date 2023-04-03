@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  WebApiTest
-//
-//  Created by 日高隼人 on 2023/04/03.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {

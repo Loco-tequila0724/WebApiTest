@@ -1,9 +1,3 @@
-//
-//  WebApiTestTests.swift
-//  WebApiTestTests
-//
-//  Created by 日高隼人 on 2023/04/03.
-//
 
 import XCTest
 @testable import WebApiTest
